@@ -8895,6 +8895,7 @@ h1, h2, h3, h4, h5,
       letter-spacing: 2px; }
     @media (max-width: 767.98px) {
       .project .text {
+        font-size: 10px;
         opacity: 1; }
         .project .text span {
           color: rgba(255, 255, 255, 0.8); } }
