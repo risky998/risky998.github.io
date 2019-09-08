@@ -1,0 +1,29 @@
+#logo
+{
+    padding-top: 65px;
+    width: 100px;
+    height: 72px;
+}
+
+#footer
+{
+    text-align: center;
+    font-size: 13px;
+}
+
+#footer ul {
+    list-style: disc;
+    bottom: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+#footer ul li
+{
+    color: #B40E0C;
+    display: inline;
+    padding: 0 5px;
+    list-style: circle;
+    font-size: 11px;
+    white-space: nowrap;
+}
